@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">News</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+          
+          {{ post.excerpt }}
+          <br><br>
+          <p>  <span class="post-meta"><i>Posted by <b class="author">{{ post.author}}</b> on {{ post.date | date: "%b %-d, %Y" }}</i></span>              
+
+          </p>
+          
+<hr>
+      </li>
+       
+    {% endfor %}
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>

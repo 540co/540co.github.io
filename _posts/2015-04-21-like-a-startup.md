@@ -7,7 +7,7 @@ author_image: chris.jpg
 excerpt: "540 has the energy that I’ve been seeking since my days with Ideal, and finding it now, at this stage in my career, has been refreshing. Our energy is contagious, and we’re ready to spread that to our friends in Government. We want our Government to think, operate, and innovate…like a startup."
 ---
 
-![HEADER IMAGE](/assets/blog/like-a-startup/mac-glasses.jpg)
+![HEADER IMAGE](/assets/blog/like-a-startup/mac-glasses.JPG)
 
 ###Let me introduce myself.  I’m not an entrepreneur.
 

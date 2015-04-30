@@ -262,7 +262,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
-    text-align: center;
     color: #fff;
     background-attachment: scroll;
     background-position: center center;
@@ -983,7 +982,7 @@ body {
 /* Jekyll styles
 -------------------------------------------------- */
 .author {
-    color: #68C3A3;
+    color: #2C3E50;
 }
 
 /* Sticky footer styles
@@ -1010,9 +1009,10 @@ body {
     color:#000;
 }
 
+a,
 a:hover,
 a:focus,
 a:active,
 a:visited {
- color: #68C3A3;
+ color: #2574A9;
 }

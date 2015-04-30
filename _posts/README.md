@@ -22,13 +22,13 @@ To create a new post, all you need to do is create a new file in the `_posts` di
     YYYY-MM-DD-title-of-your-post.md
 ```
 
-##Content Formats
+###Content Formats
 
 All blog post files must begin with YAML Front Matter. After that, it’s simply a matter of deciding which format you prefer. Jekyll supports Markdown out of the box. For a more detail example you can simply copy the `how-to-write-a-post.md` file from the `_drafts` folder and start writing.
 
 Begin the new markdown file by adding "YAML front-matter" above. This is where the post's title, authors, picture, and excerpt/description live. 
 
-###Eaxmple YAML Front Matter
+###Example YAML Front Matter
 ```
 ---
 layout: post

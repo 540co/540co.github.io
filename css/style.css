@@ -1009,3 +1009,10 @@ body {
 .post-title{
     color:#000;
 }
+
+a:hover,
+a:focus,
+a:active,
+a:visited {
+ color: #68C3A3;
+}

@@ -9,7 +9,7 @@ excerpt: "Last week, Secretary of Defense Ashton Carter visited Silicon Valley, 
 
 ![HEADER IMAGE](/assets/blog/icy-fedramp-to-the-silicon-beltway/fedramp-logo-2.png)
 
-Last week, Secretary of Defense Ashton Carter visited Silicon Valley, advocating for a partnership between Pentagon and America’s hub of technology innovation. At Stanford University, Secretary Carter spoke of a “renewed” and “re-wired” partnership in which Pentagon officials think “outside of our five-sided box”. Cart's speech can be found [here](http://www.defense.gov/Transcripts/Transcript.aspx?TranscriptID=5621).
+Last week, Secretary of Defense Ashton Carter visited Silicon Valley, advocating for a partnership between Pentagon and America’s hub of technology innovation. At Stanford University, Secretary Carter spoke of a “renewed” and “re-wired” partnership in which Pentagon officials think “outside of our five-sided box”. The transcript of Carter's speech can be found [here](http://www.defense.gov/Transcripts/Transcript.aspx?TranscriptID=5621).
 
 He spoke extensively about cyber security and the threats posed to our national security from cyber attackers on a daily basis.  The effectiveness of this partnership is critical in ensuring our national defense capabilities remain the best in the world and in putting the most effective tools in the hands of our physical and cyber warfighters.
 

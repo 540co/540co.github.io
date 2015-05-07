@@ -75,12 +75,12 @@
                <div class="page-content bg-light-gray">
                     <div class="wrapper">
                     {{ content }}
+                    {% include twitter.html %}
+                    {% include comments.html %}
                     </div>
                 </div>
           </div>
       </div>
-        {% include twitter.html %}
-        {% include comments.html %}
    </div>
       
       {% include footer.html %}

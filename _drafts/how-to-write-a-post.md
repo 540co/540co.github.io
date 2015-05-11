@@ -3,7 +3,7 @@ layout: post
 title:  "How to write a post!"
 date:   2015-04-21 15:20:15
 author: George Washington
-author_image: name.jpg
+author_image: name.png
 excerpt: "Add a small excerpt to show a preview of the post from the list of news/posts"
 ---
 

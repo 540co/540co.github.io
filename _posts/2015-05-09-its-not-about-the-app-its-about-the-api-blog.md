@@ -24,7 +24,7 @@ Government leaders nodding their heads at the importance of data  / APIs, tellin
 
 --
 
-As many of you know,  I have been in the trenches parsing DoD Budget data for awhile - so this was exciting for me.  #dontJugdgeMe
+As many of you know,  I have been in the trenches parsing DoD Budget data for awhile - so this was exciting for me.  #dontJudgeMe
 
 **I have worked with our client’s to grab key "needles" out of the XML "haystacks" (manufacturing data, R-3 items, etc)** as well as painstakingly harvested / parsed all of the [DoD Justification Book XML’s exhibits into manageable line items / program elements](https://fedapi.io/www/overview/dodbudget) as part of our [FedAPI platform](http://fedapi.com) and published [flat versions of the exhibits on Github for business analysts.](https://github.com/540co/dod-president-budget-procurement-rdte-data)
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "It's not about the App, It's about the APIs"
 date:   2015-05-09 15:20:15
-author: John OBrien
+author: John O'Brien
 author_image: john.png
 excerpt: "Sometimes I feel like a broken record when evangelizing the importance of data sharing (even within the secure walls of the Pentagon) and how important it is to ensure that data is available via an API..."
 ---

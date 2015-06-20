@@ -6,7 +6,7 @@ author_image: chris.jpg
 excerpt: "Earlier this week, the General Services Administration issued the long-awaited Agile Delivery Services BPA Request for Quotations.  True to their word, our friends at GSA 18F issued an RFQ that was different….. refreshingly different."
 ---
 
-![HEADER IMAGE](/assets/blog/like-a-startup/mac-glasses.JPG)
+![HEADER IMAGE](/assets/blog/ads-blog/ADS Team.JPG)
 
 ###Agile Delivery Services BPA - A Different Kind of Proposal
 

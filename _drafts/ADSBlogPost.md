@@ -7,7 +7,6 @@ excerpt: "Earlier this week, the General Services Administration issued the long
 ---
 
 ![HEADER IMAGE](/assets/blog/ads-blog/ADS_Team.tiff)
-![HEADER IMAGE](/assets/blog/icy-fedramp-to-the-silicon-beltway/fedramp-logo-2.png)
 
 ###Agile Delivery Services BPA - A Different Kind of Proposal
 

@@ -5,6 +5,9 @@ author: Chris Bock
 author_image: chris.jpg
 excerpt: "Earlier this week, the General Services Administration issued the long-awaited Agile Delivery Services BPA Request for Quotations.  True to their word, our friends at GSA 18F issued an RFQ that was different….. refreshingly different."
 ---
+
+![HEADER IMAGE](/assets/blog/like-a-startup/mac-glasses.JPG)
+
 ###Agile Delivery Services BPA - A Different Kind of Proposal
 
 Earlier this week, the General Services Administration issued the long-awaited Agile Delivery Services BPA Request for Quotations.  True to their word, our friends at GSA 18F issued an RFQ that was different….. refreshingly different.  Working in Federal contracting for the last 20 years, I’m accustomed to writing lengthy technical and management volumes and going through reviews with green teams, red teams, pink teams, and more editing sessions than I care to remember trying to get our volumes to “blue” (traditional proposals are a real rainbow of fun!).  But all those hard working, hand wringing, and late night sessions drive towards to one objective…. putting the best written proposal in front of the Government to win the work.

@@ -1,9 +1,9 @@
 ---
 title:  "Agile Delivery Services BPA - A Different Kind of Proposal"
- date:   2015-06-20 16:26:15
- author: Chris Bock
--author_image: chris.jpg
- excerpt: "Earlier this week, the General Services Administration issued the long-awaited Agile Delivery Services BPA Request for Quotations.  True to their word, our friends at GSA 18F issued an RFQ that was different….. refreshingly different."
+date:   2015-06-20 16:26:15
+author: Chris Bock
+author_image: chris.jpg
+excerpt: "Earlier this week, the General Services Administration issued the long-awaited Agile Delivery Services BPA Request for Quotations.  True to their word, our friends at GSA 18F issued an RFQ that was different….. refreshingly different."
 ---
 ###Agile Delivery Services BPA - A Different Kind of Proposal
 

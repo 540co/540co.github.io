@@ -1,4 +1,4 @@
-#540's Homepage
+#540's News
 
 This repository contains 540's blog and news website, https://news.540.co
 
@@ -18,7 +18,7 @@ gem install jekyll
 
 Prerequisites: Installing Jekyll is easy and straight-forward, but there are a few requirements you’ll need to make sure your system has before you start.
 
-- Ruby 
+- Ruby
 - RubyGems
 - Linux, Unix, or Mac OS X
 - NodeJS

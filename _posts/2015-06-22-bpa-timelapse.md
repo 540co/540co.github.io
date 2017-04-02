@@ -9,4 +9,4 @@ excerpt: "This video shows the last 2 hours of our prototyping to reach the end 
 
 This video shows the last 2 hours of our prototyping to reach the end of our first sprint and achieve MVP Status.
 
-<iframe width="620" height="415" src="http://www.youtube.com/embed/yfa4X7j8eec" frameborder="0"></iframe>
+<iframe width="620" height="415" src="https://www.youtube.com/embed/yfa4X7j8eec" frameborder="0"></iframe>
